@@ -87,7 +87,7 @@ The following methods are exposed by the stack object:
 ### `stack.push()`
 Saves the current state of the WebGL context onto the stack
 
-### `stack.pop()
+### `stack.pop()`
 Restores the last pushed state from the stack.
 
 # Credits
