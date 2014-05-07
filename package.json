@@ -1,13 +1,13 @@
 {
   "name": "gl-state",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Saves WebGL context state",
   "main": "savestate.js",
   "directories": {
     "example": "example"
   },
   "dependencies": {
-    "uniq": "^0.0.2"
+    "uniq": "^1.0.0"
   },
   "devDependencies": {
     "gl-now": "~1.0.0",
